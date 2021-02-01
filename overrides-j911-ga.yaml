@@ -17,7 +17,7 @@ envs:
 modules:
       repositories:
           - path: modules
-          - name: cct_module_j9
+          - name: cct_module
             git:
                  url: https://github.com/artemiscloud/cct_module.git
                  ref: 0.38.0-amq-multiarch
